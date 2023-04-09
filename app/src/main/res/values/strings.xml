@@ -1,0 +1,287 @@
+<resources>
+    <string name="app_name">Nijipedia</string>
+    <string name="niji_name">Livers Name</string>
+    <string name="description">Description</string>
+    <string name="birthday">Birthday</string>
+    <string name="debut">Debut Date</string>
+    <string name="song">Debut Song</string>
+    <string name="height">Height</string>
+    <string name="list">List View</string>
+    <string name="grid">GridView</string>
+    <string name="about">About Me</string>
+    <string name="history">History</string>
+
+    <string name="list_view">List View</string>
+
+    <string-array name="data_name">
+        <item>Aia Amare</item>
+        <item>Alban Knox</item>
+        <item>Aster Arcadia</item>
+        <item>Doppio Dropscythe</item>
+        <item>Elira Pendora</item>
+        <item>Enna Alouette</item>
+        <item>Finana Ryugu</item>
+        <item>Fulgur Ovid</item>
+        <item>Hex Haywire</item>
+        <item>Ike Eveland</item>
+        <item>Kotoka Torahime</item>
+        <item>Kyo Kaneko</item>
+        <item>Luca Kaneshiro</item>
+        <item>Maria Marionette</item>
+        <item>Meloco Kyoran</item>
+        <item>Millie Parfait</item>
+        <item>Mysta Rias</item>
+        <item>Nina Kosaka</item>
+        <item>Petra Gurin</item>
+        <item>Pomu Rainpuff</item>
+        <item>Reimu Endou</item>
+        <item>Ren Zotto</item>
+        <item>Rosemi Lovelock</item>
+        <item>Scarle Yonaguni</item>
+        <item>Selen Tatsuki</item>
+        <item>Shu Yamino</item>
+        <item>Sonny Brisko</item>
+        <item>Uki Violeta</item>
+        <item>Ver Vermillion</item>
+        <item>Vox Akuma</item>
+        <item>Zaion LanZa</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>ILUNA Institute of the Mystics 2nd Year. An angelic maiden who descended from Heaven to observe mankind. Her gentle appearance hides a rather mischievous disposition.</item>
+        <item>A Phantom Thief from the future with exceptional stealth. He’s a free yet mischievous spirit who is hard to pin down.</item>
+        <item>ILUNA Institute of the Mystics 2nd Year. A celestial born from a Supernova long ago. His memories are faint, but his wish to spread happiness across the universe remains strong.</item>
+        <item>XSOLEIL Institute of Infinity 1st Year. Enforcer of the Student Council who is true to himself. He’s a delinquent turned disciplinarian, so can order really be expected?</item>
+        <item>A sky dragon who came from the heavens closest to the sun. She has the kindness and receptiveness that makes the light of a sunny day fall equally on all.</item>
+        <item>A blue bird fluttering in the heavens. She sings a love song for the souls of the living.</item>
+        <item>A mermaid who spends her time with tropical fish in the sea of coral reefs. Has a heart as clear and pure as the calm and beautiful sea.</item>
+        <item>A Cyborg from the future with unparalleled strength. His body is partly cold steel, and who’s to say if he has a heart?</item>
+        <item>XSOLEIL Institute of Infinity 2nd Year. Counselor of the Student Council who greatly wishes to care for people. He can absorb the pain of others, at the cost of his own wellbeing.</item>
+        <item>A Novelist from the past who seems somewhat closed-off. When an idea for his next work sparks, he becomes a completely different person.</item>
+        <item>XSOLEIL Institute of Infinity 3rd Year. Vice President of the Student Council who is as fashionable as she is dependable. She specializes in glamouring as anyone she touches.</item>
+        <item>ILUNA Institute of the Mystics 1st Year. A cheerful first year with a chaotic edge. His primary goal in life is to always have fun and make others laugh.</item>
+        <item>A Mafia boss from the past with a slight temper. Always down for a fight, whether it’s to show-off his own strength or to protect the weak.</item>
+        <item>ILUNA Institute of the Mystics 1st Year. A doll who was turned human after centuries of loneliness. Easily influenced by her surroundings, her actions are often strange, but she means well.</item>
+        <item>XSOLEIL Institute of Infinity 2nd Year. Event coordinator of the Student Council who is an exorcist by night. She casts out ghosts and demons with her trusty umbrella.</item>
+        <item>A monster cat creeping through hell. A bit aggressive, but maybe she just needs some attention.</item>
+        <item>A Detective from the past known for his eccentric nature. As a natural-born genius, he solved countless mysteries with his keen deduction skills.</item>
+        <item>A nine-tailed fox that presides over the heavens. She wishes for the joy of all souls on the long journey.</item>
+        <item>A penguin who spent much time alone in the frosty sea. Has charm and complex emotions as the stormy sea.</item>
+        <item>A fairy who lived in a lush forest. Supple like a flower in the breeze, cheerful and optimistic.</item>
+        <item>A ghost wandering in hell. The more she thinks of her beloved, the more she becomes sad and haunted.</item>
+        <item>ILUNA Institute of the Mystics 3rd Year. A deadly alien prince from another world. He has resolved to conquer Earth, using his unique sound.</item>
+        <item>A rose maiden raised in a beautiful garden. Pretty as a rose in a vase, but a little sharp to the touch.</item>
+        <item>ILUNA Institute of the Mystics 3rd Year. An elegant and mature Enchantress. Her captivating beauty glows as radiant as her scarlet staff.</item>
+        <item>A sky dragon descended from the moon. She has a gentle heart hidden underneath her mischievous nature, like the glow of the moon on a cloudy night.</item>
+        <item>A sorcerer from the past with mysterious abilities. Though kind-hearted, he can call down a malediction upon those who wrong him.</item>
+        <item>An Officer from the future with a straightforward attitude. He’s reliable in a pinch despite being rough around the edges.</item>
+        <item>A Psychic from the future with enigmatic powers. Though he appears somewhat shy, strange things follow wherever he goes.</item>
+        <item>XSOLEIL Institute of Infinity 3rd Year. President of the Student Council who is veiled in charisma and mystery. He can look into your very soul and read your future.</item>
+        <item>A Demon from the past who held great power. Though confident in his superhuman abilities, he looks after those who are loyal to him.</item>
+        <item>XSOLEIL Institute of Infinity 1st Year. Treasurer of the Student Council who came from the future. She hides her loneliness with a self-imposed goal of preventing the apocalypse.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/aia</item>
+        <item>@drawable/alban</item>
+        <item>@drawable/aster</item>
+        <item>@drawable/doppio</item>
+        <item>@drawable/elira</item>
+        <item>@drawable/enna</item>
+        <item>@drawable/finana</item>
+        <item>@drawable/fulgur</item>
+        <item>@drawable/hex</item>
+        <item>@drawable/ike</item>
+        <item>@drawable/kotoka</item>
+        <item>@drawable/kyo</item>
+        <item>@drawable/luca</item>
+        <item>@drawable/maria</item>
+        <item>@drawable/meloco</item>
+        <item>@drawable/millie</item>
+        <item>@drawable/mysta</item>
+        <item>@drawable/nina</item>
+        <item>@drawable/petra</item>
+        <item>@drawable/pomu</item>
+        <item>@drawable/reimu</item>
+        <item>@drawable/ren</item>
+        <item>@drawable/rosemi</item>
+        <item>@drawable/scarle</item>
+        <item>@drawable/selen</item>
+        <item>@drawable/shu</item>
+        <item>@drawable/sonny</item>
+        <item>@drawable/uki</item>
+        <item>@drawable/ver</item>
+        <item>@drawable/vox</item>
+        <item>@drawable/zaion</item>
+    </integer-array>
+
+    <string-array name="data_birthday">
+        <item>27 May</item>
+        <item>26 May</item>
+        <item>25 September</item>
+        <item>31 January</item>
+        <item>16 October</item>
+        <item>20 February</item>
+        <item>21 June</item>
+        <item>178 cm</item>
+        <item>7 May</item>
+        <item>12 June</item>
+        <item>14 August</item>
+        <item>29 December</item>
+        <item>10 April</item>
+        <item>7 December</item>
+        <item>29 October</item>
+        <item>12 December</item>
+        <item>20 January</item>
+        <item>22 November</item>
+        <item>4 December</item>
+        <item>12 July</item>
+        <item>2 November</item>
+        <item>25 March</item>
+        <item>16 September</item>
+        <item>19 February</item>
+        <item>30 November</item>
+        <item>2 May</item>
+        <item>6 April</item>
+        <item>17 July</item>
+        <item>25 August</item>
+        <item>25 April</item>
+        <item>11 July</item>
+    </string-array>
+
+    <string-array name="data_debut">
+        <item>2022/07/25</item>
+        <item>2022/02/27</item>
+        <item>2022/07/25</item>
+        <item>2022/12/10</item>
+        <item>2021/05/16</item>
+        <item>2021/10/8</item>
+        <item>2021/05/16</item>
+        <item>2022/02/27</item>
+        <item>2022/12/10</item>
+        <item>2021/12/20</item>
+        <item>2022/12/10</item>
+        <item>2022/07/25</item>
+        <item>2021/12/20</item>
+        <item>2022/07/25</item>
+        <item>2022/12/10</item>
+        <item>2021/10/9</item>
+        <item>2021/12/20</item>
+        <item>2021/10/9</item>
+        <item>2021/07/17</item>
+        <item>2021/05/16</item>
+        <item>2021/10/8</item>
+        <item>2022/07/25</item>
+        <item>2021/07/17</item>
+        <item>2022/07/25</item>
+        <item>2021/07/17</item>
+        <item>2021/12/20</item>
+        <item>2022/02/27</item>
+        <item>2022/02/27</item>
+        <item>2022/12/10</item>
+        <item>2021/12/20</item>
+        <item>2022/12/10</item>
+    </string-array>
+
+    <string-array name="data_height">
+        <item>158 cm</item>
+        <item>175 cm</item>
+        <item>170 cm</item>
+        <item>187 cm</item>
+        <item>160 cm / 1432 cm</item>
+        <item>Under 150cm</item>
+        <item>140 cm</item>
+        <item>26 March</item>
+        <item>185 cm</item>
+        <item>173 cm</item>
+        <item>166 cm</item>
+        <item>160 cm</item>
+        <item>178 cm</item>
+        <item>152 cm</item>
+        <item>164cm</item>
+        <item>150 cm</item>
+        <item>177 cm</item>
+        <item>174 cm</item>
+        <item>152 cm</item>
+        <item>156 cm</item>
+        <item>155 cm</item>
+        <item>180 cm</item>
+        <item>150 cm</item>
+        <item>165 cm</item>
+        <item>160 cm</item>
+        <item>173 cm</item>
+        <item>180 cm</item>
+        <item>169 cm</item>
+        <item>173 cm</item>
+        <item>178cm</item>
+        <item>153 cm</item>
+    </string-array>
+
+    <string-array name="song">
+        <item>Let`s Get It Started</item>
+        <item>Stuck In The Abyss</item>
+        <item>Let`s Get It Started</item>
+        <item>HOLD IT DOWN</item>
+        <item>Diamond City Light</item>
+        <item>God Sees All</item>
+        <item>Diamond City Light</item>
+        <item>Stuck In The Abyss</item>
+        <item>HOLD IT DOWN</item>
+        <item>Hope In The Dark</item>
+        <item>HOLD IT DOWN</item>
+        <item>Let`s Get It Started</item>
+        <item>Hope In The Dark</item>
+        <item>Let`s Get It Started</item>
+        <item>HOLD IT DOWN</item>
+        <item>God Sees All</item>
+        <item>Hope In The Dark</item>
+        <item>God Sees All</item>
+        <item>Black Out</item>
+        <item>Diamond City Light</item>
+        <item>God Sees All</item>
+        <item>Let`s Get It Started</item>
+        <item>Black Out</item>
+        <item>Let`s Get It Started</item>
+        <item>Black Out</item>
+        <item>Hope In The Dark</item>
+        <item>Stuck In The Abyss</item>
+        <item>Stuck In The Abyss</item>
+        <item>HOLD IT DOWN</item>
+        <item>Hope In The Dark</item>
+        <item>HOLD IT DOWN</item>
+    </string-array>
+
+    <integer-array name="data_album">
+        <item>@drawable/iluna</item>
+        <item>@drawable/noctyx</item>
+        <item>@drawable/iluna</item>
+        <item>@drawable/xsoleil</item>
+        <item>@drawable/lazulight</item>
+        <item>@drawable/ethyria</item>
+        <item>@drawable/lazulight</item>
+        <item>@drawable/noctyx</item>
+        <item>@drawable/xsoleil</item>
+        <item>@drawable/luxiem</item>
+        <item>@drawable/xsoleil</item>
+        <item>@drawable/iluna</item>
+        <item>@drawable/luxiem</item>
+        <item>@drawable/iluna</item>
+        <item>@drawable/xsoleil</item>
+        <item>@drawable/ethyria</item>
+        <item>@drawable/luxiem</item>
+        <item>@drawable/ethyria</item>
+        <item>@drawable/obsydia</item>
+        <item>@drawable/lazulight</item>
+        <item>@drawable/ethyria</item>
+        <item>@drawable/iluna</item>
+        <item>@drawable/obsydia</item>
+        <item>@drawable/iluna</item>
+        <item>@drawable/obsydia</item>
+        <item>@drawable/luxiem</item>
+        <item>@drawable/noctyx</item>
+        <item>@drawable/noctyx</item>
+        <item>@drawable/xsoleil</item>
+        <item>@drawable/luxiem</item>
+        <item>@drawable/xsoleil</item>
+    </integer-array>
+</resources>
